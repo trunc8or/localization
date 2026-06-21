@@ -29,7 +29,7 @@ install_requires=['setuptools'],
 
 zip_safe=True,
 
-maintainer='Rory O'Brien',
+maintainer="Rory O'Brien",
 maintainer_email='rpobrien@tudelft.nl',
 
 description='Localization package for MIRTE master tetris assembly robot',
