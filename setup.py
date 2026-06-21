@@ -29,10 +29,10 @@ install_requires=['setuptools'],
 
 zip_safe=True,
 
-maintainer='Your Name',
-maintainer_email='your_email@example.com',
+maintainer='Rory O'Brien',
+maintainer_email='rpobrien@tudelft.nl',
 
-description='Localization package for MIRTE',
+description='Localization package for MIRTE master tetris assembly robot',
 
 license='MIT',
 
